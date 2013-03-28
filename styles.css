@@ -1,0 +1,13 @@
+
+body {font-size:15px;}
+* {line-height:1.4; font-family:verdana,arial,sans-serif; color:#444;}
+h1 {font-weight:normal;}
+p.log {color:#ccc;}
+p.error {color:#f00;}
+label.error {background-color:#f00;color:#fff;}
+fieldset {background-color:#f4f4f4; border:1px solid #ddd; border-radius:10px; width:500px; padding:10px 30px;}
+input[type=text],
+textarea {width:100%;}
+textarea {height:100px;}
+input[type=submit] {background-color:#0c0; border:0; border-radius:10px; color:#fff; padding:5px 15px; font-size:16px;}
+input[type=submit]:hover {background-color:#0A0;cursor:pointer;}
